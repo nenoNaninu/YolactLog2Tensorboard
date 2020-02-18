@@ -2,7 +2,7 @@
 
 This repository contains a script to display the yolact log on tensorboard.
 
-```python
+```
 python main.py yolact_log_path.log out_dir
 tensorboard --logdir out_dir
 ```
